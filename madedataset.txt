@@ -5531,7 +5531,640 @@ Answer: Based on the symptoms, I think you might have Malaria. Malaria is caused
 Question: Hey assistant, I have a high fever, severe headache, and joint pain.
 Answer: Based on the symptoms, I think you might have Dengue. Dengue is caused by the dengue virus, transmitted by Aedes mosquitoes, and is characterized by high fever, severe headache, and pain in the joints and muscles.
 
+Question: What are the symptoms of Piles?
+Answer: Symptoms include pain or discomfort around the anus, itching, swelling, and bleeding during bowel movements.
 
+Question: What are the causes of Piles?
+Answer: Causes include straining during bowel movements, chronic constipation or diarrhea, obesity, and prolonged sitting.
+
+Question: How to prevent Piles?
+Answer: Prevent by maintaining a high-fiber diet, staying hydrated, exercising regularly, and avoiding prolonged sitting.
+
+Question: What is the treatment for Piles?
+Answer: Treatment options include over-the-counter creams, warm baths, dietary changes, and in severe cases, surgical procedures.
+
+Question: What is Piles?
+Answer: Piles, also known as hemorrhoids, are swollen and inflamed veins in the rectum and anus that can cause discomfort and bleeding.
+
+Question: What are the prescribed medicines for Piles?
+Answer: Consult a doctor before taking medicines. Treatments may include topical creams (e.g., hydrocortisone), oral pain relievers (e.g., acetaminophen), and stool softeners to ease bowel movements.
+
+Question: Hey assistant, I have pain and discomfort around my anus, along with some bleeding during bowel movements.
+Answer: Based on your symptoms, you might have Piles (Hemorrhoids). This condition occurs when the veins in the rectum and anus become swollen and inflamed, leading to pain, discomfort, and bleeding.
+
+Question: What are the symptoms of Lung Cancer?
+Answer: Symptoms include a persistent cough, chest pain, weight loss, and coughing up blood.
+
+Question: What are the causes of Lung Cancer?
+Answer: Causes include smoking, exposure to secondhand smoke, radon gas, and certain occupational exposures.
+
+Question: How to prevent Lung Cancer?
+Answer: Prevent by not smoking, avoiding secondhand smoke, reducing exposure to radon, and maintaining a healthy diet.
+
+Question: What is the treatment for Lung Cancer?
+Answer: Treatment options include surgery, chemotherapy, radiation therapy, targeted therapy, and immunotherapy.
+
+Question: What is Lung Cancer?
+Answer: Lung Cancer is a type of cancer that begins in the lungs and can spread to other parts of the body, often associated with smoking.
+
+Question: What are the prescribed medicines for Lung Cancer?
+Answer: Common medications include chemotherapy agents (e.g., cisplatin), targeted therapies (e.g., erlotinib), and immunotherapy (e.g., pembrolizumab).                                        
+
+Question: What are the symptoms of Pulmonary Hypertension?
+Answer: Symptoms include shortness of breath, fatigue, chest pain, and swelling in the ankles or legs.
+
+Question: What are the causes of Pulmonary Hypertension?
+Answer: Causes include chronic lung diseases, heart conditions, blood clots in the lungs, and certain medications.
+
+Question: How to prevent Pulmonary Hypertension?
+Answer: Prevent by managing underlying health conditions, avoiding high altitudes, and maintaining a healthy lifestyle.
+
+Question: What is the treatment for Pulmonary Hypertension?
+Answer: Treatment options include medications (e.g., vasodilators), oxygen therapy, and in severe cases, lung transplantation.
+
+Question: What is Pulmonary Hypertension?
+Answer: Pulmonary Hypertension is a condition characterized by high blood pressure in the blood vessels that supply the lungs.
+
+Question: What are the prescribed medicines for Pulmonary Hypertension?
+Answer: Common medications include endothelin receptor antagonists (e.g., bosentan), phosphodiesterase-5 inhibitors (e.g., sildenafil), and prostacyclin analogs (e.g., epoprostenol).
+
+Question: What are the symptoms of Pollen Allergy (Hay Fever)?
+Answer: Symptoms include sneezing, runny or stuffy nose, itchy eyes, and coughing.
+
+Question: What are the causes of Pollen Allergy?
+Answer: Causes include exposure to pollen from trees, grasses, and weeds.
+
+Question: How to prevent Pollen Allergy?
+Answer: Prevent by staying indoors on high pollen days, using air purifiers, and keeping windows closed.
+
+Question: What is the treatment for Pollen Allergy?
+Answer: Treatment options include antihistamines, nasal corticosteroids, and allergy shots (immunotherapy).
+
+Question: What is Pollen Allergy?
+Answer: Pollen Allergy, or Hay Fever, is an allergic reaction to pollen from plants, leading to respiratory symptoms.
+
+Question: What are the prescribed medicines for Pollen Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and nasal sprays (e.g., fluticasone).
+
+Question: What are the symptoms of Dust Mite Allergy?
+Answer: Symptoms include sneezing, runny or stuffy nose, itchy eyes, and asthma symptoms.
+
+Question: What are the causes of Dust Mite Allergy?
+Answer: Causes include exposure to dust mites found in bedding, carpets, and upholstered furniture.
+
+Question: How to prevent Dust Mite Allergy?
+Answer: Prevent by using dust mite-proof covers, washing bedding in hot water, and reducing humidity.
+
+Question: What is the treatment for Dust Mite Allergy?
+Answer: Treatment options include antihistamines, nasal corticosteroids, and allergy shots.
+
+Question: What is Dust Mite Allergy?
+Answer: Dust Mite Allergy is an allergic reaction to tiny bugs that live in household dust, causing respiratory symptoms.
+
+Question: What are the prescribed medicines for Dust Mite Allergy?
+Answer: Common medications include antihistamines (e.g., loratadine) and nasal corticosteroids (e.g., mometasone).
+
+Question: What are the symptoms of Pet Allergy?
+Answer: Symptoms include sneezing, runny or stuffy nose, itchy eyes, and skin rashes.
+
+Question: What are the causes of Pet Allergy?
+Answer: Causes include exposure to proteins found in pet dander, saliva, and urine.
+
+Question: How to prevent Pet Allergy?
+Answer: Prevent by keeping pets out of bedrooms, using air purifiers, and regularly cleaning pet areas.
+
+Question: What is the treatment for Pet Allergy?
+Answer: Treatment options include antihistamines, nasal corticosteroids, and allergy shots.
+
+Question: What is Pet Allergy?
+Answer: Pet Allergy is an allergic reaction to proteins from animals, leading to respiratory and skin symptoms.
+
+Question: What are the prescribed medicines for Pet Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and nasal sprays (e.g., fluticasone).
+
+Question: What are the symptoms of Mold Allergy?
+Answer: Symptoms include sneezing, runny or stuffy nose, itchy eyes, and skin rashes.
+
+Question: What are the causes of Mold Allergy?
+Answer: Causes include exposure to mold spores found in damp or humid environments.
+
+Question: How to prevent Mold Allergy?
+Answer: Prevent by reducing humidity, fixing leaks, and using dehumidifiers.
+
+Question: What is the treatment for Mold Allergy?
+Answer: Treatment options include antihistamines, nasal corticosteroids, and allergy shots.
+
+Question: What is Mold Allergy?
+Answer: Mold Allergy is an allergic reaction to mold spores, leading to respiratory and skin symptoms.
+
+Question: What are the prescribed medicines for Mold Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and nasal corticosteroids (e.g., budesonide).
+
+Question: What are the symptoms of Food Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Food Allergy?
+Answer: Causes include immune reactions to specific foods, such as peanuts, tree nuts, shellfish, and dairy.
+
+Question: How to prevent Food Allergy?
+Answer: Prevent by avoiding known allergens and reading food labels carefully.
+
+Question: What is the treatment for Food Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Food Allergy?
+Answer: Food Allergy is an immune response to certain foods.
+
+Question: What are the prescribed medicines for Food Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) for mild reactions and epinephrine auto-injectors (e.g., EpiPen) for severe reactions.
+
+Question: What are the symptoms of Shellfish Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, nausea, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Shellfish Allergy?
+Answer: Causes include an immune response to proteins found in shellfish, such as shrimp, crab, and lobster.
+
+Question: How to prevent Shellfish Allergy?
+Answer: Prevent by avoiding all forms of shellfish and reading food labels carefully.
+
+Question: What is the treatment for Shellfish Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Shellfish Allergy?
+Answer: Shellfish Allergy is an allergic reaction to shellfish proteins, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Shellfish Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Peanut Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, difficulty breathing, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Peanut Allergy?
+Answer: Causes include an immune response to proteins found in peanuts.
+
+Question: How to prevent Peanut Allergy?
+Answer: Prevent by avoiding peanuts and peanut products and reading food labels carefully.
+
+Question: What is the treatment for Peanut Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Peanut Allergy?
+Answer: Peanut Allergy is an allergic reaction to peanut proteins, which can cause severe and potentially life-threatening symptoms.
+
+Question: What are the prescribed medicines for Peanut Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Tree Nut Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Tree Nut Allergy?
+Answer: Causes include an immune response to proteins found in tree nuts, such as almonds, walnuts, and cashews.
+
+Question: How to prevent Tree Nut Allergy?
+Answer: Prevent by avoiding all forms of tree nuts and reading food labels carefully.
+
+Question: What is the treatment for Tree Nut Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Tree Nut Allergy?
+Answer: Tree Nut Allergy is an allergic reaction to tree nut proteins, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Tree Nut Allergy?
+Answer: Common medications include antihistamines (e.g., loratadine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Insect Sting Allergy?
+Answer: Symptoms include swelling at the sting site, hives, difficulty breathing, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Insect Sting Allergy?
+Answer: Causes include an immune response to venom from insect stings, such as bees, wasps, and hornets.
+
+Question: How to prevent Insect Sting Allergy?
+Answer: Prevent by avoiding areas with high insect activity, wearing protective clothing, and using insect repellent.
+
+Question: What is the treatment for Insect Sting Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Insect Sting Allergy?
+Answer: Insect Sting Allergy is an allergic reaction to venom from insect stings, which can cause severe and potentially life-threatening symptoms.
+
+Question: What are the prescribed medicines for Insect Sting Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen). 
+
+Question: What are the symptoms of Latex Allergy?
+Answer: Symptoms include skin irritation, hives, runny nose, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Latex Allergy?
+Answer: Causes include an immune response to proteins found in natural rubber latex, commonly used in gloves and balloons.
+
+Question: How to prevent Latex Allergy?
+Answer: Prevent by avoiding latex products and using non-latex alternatives, such as vinyl or nitrile gloves.
+
+Question: What is the treatment for Latex Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Latex Allergy?
+Answer: Latex Allergy is an allergic reaction to proteins in natural rubber latex, which can cause a range of symptoms from mild to severe.
+
+Question: What are the prescribed medicines for Latex Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Nickel Allergy?
+Answer: Symptoms include itching, redness, and swelling at the site of contact, often seen with jewelry or metal objects.
+
+Question: What are the causes of Nickel Allergy?
+Answer: Causes include an immune response to nickel, a common metal found in jewelry, watches, and some clothing fasteners.
+
+Question: How to prevent Nickel Allergy?
+Answer: Prevent by avoiding nickel-containing products and using protective barriers, such as clear nail polish on jewelry.
+
+Question: What is the treatment for Nickel Allergy?
+Answer: Treatment options include topical corticosteroids to reduce inflammation and antihistamines for itching.
+
+Question: What is Nickel Allergy?
+Answer: Nickel Allergy is a common contact allergy characterized by an allergic reaction to nickel, leading to skin irritation.
+
+Question: What are the prescribed medicines for Nickel Allergy?
+Answer: Common medications include topical corticosteroids (e.g., hydrocortisone) and antihistamines (e.g., diphenhydramine).
+
+Question: What are the symptoms of Fragrance Allergy?
+Answer: Symptoms include sneezing, headaches, skin irritation, and respiratory issues.
+
+Question: What are the causes of Fragrance Allergy?
+Answer: Causes include an immune response to synthetic or natural fragrances found in perfumes, cosmetics, and household products.
+
+Question: How to prevent Fragrance Allergy?
+Answer: Prevent by avoiding products with added fragrances and opting for fragrance-free alternatives.
+
+Question: What is the treatment for Fragrance Allergy?
+Answer: Treatment options include antihistamines for mild reactions and avoiding exposure to fragrances.
+
+Question: What is Fragrance Allergy?
+Answer: Fragrance Allergy is an allergic reaction to substances used in perfumes and scented products, leading to various symptoms.
+
+Question: What are the prescribed medicines for Fragrance Allergy?
+Answer: Common medications include antihistamines (e.g., loratadine) and topical corticosteroids for skin irritation.
+
+Question: What are the symptoms of Sun Allergy (Polymorphous Light Eruption)?
+Answer: Symptoms include red, itchy rash, blisters, and hives on sun-exposed areas of the skin.
+
+Question: What are the causes of Sun Allergy?
+Answer: Causes include an immune response to ultraviolet (UV) light from the sun.
+
+Question: How to prevent Sun Allergy?
+Answer: Prevent by using broad-spectrum sunscreen, wearing protective clothing, and avoiding sun exposure during peak hours.
+
+Question: What is the treatment for Sun Allergy?
+Answer: Treatment options include topical corticosteroids, antihistamines, and in some cases, phototherapy.
+
+Question: What is Sun Allergy?
+Answer: Sun Allergy is a condition characterized by an allergic reaction to sunlight, resulting in skin rashes and discomfort.
+
+Question: What are the prescribed medicines for Sun Allergy?
+Answer: Common medications include topical corticosteroids (e.g., hydrocortisone) and antihistamines (e.g., diphenhydramine).
+
+Question: What are the symptoms of Aspirin Allergy?
+Answer: Symptoms include hives, nasal congestion, difficulty breathing, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Aspirin Allergy?
+Answer: Causes include an immune response to aspirin or other nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+Question: How to prevent Aspirin Allergy?
+Answer: Prevent by avoiding aspirin and NSAIDs and informing healthcare providers of the allergy.                                                                
+
+Question: What is the treatment for Aspirin Allergy?
+Answer: Treatment options include avoiding aspirin and NSAIDs, using alternative pain relievers (e.g., acetaminophen), and antihistamines for mild reactions.
+
+Question: What is Aspirin Allergy?
+Answer: Aspirin Allergy is an allergic reaction to aspirin or other NSAIDs, which can cause various symptoms, including respiratory and skin reactions.
+
+Question: What are the prescribed medicines for Aspirin Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and corticosteroids for severe reactions.
+
+Question: What are the symptoms of Wheat Allergy?
+Answer: Symptoms include hives, difficulty breathing, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Wheat Allergy?
+Answer: Causes include an immune response to proteins found in wheat, such as gluten.
+
+Question: How to prevent Wheat Allergy?
+Answer: Prevent by avoiding wheat and wheat-containing products and reading food labels carefully.
+
+Question: What is the treatment for Wheat Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Wheat Allergy?
+Answer: Wheat Allergy is an allergic reaction to proteins in wheat, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Wheat Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Soy Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Soy Allergy?
+Answer: Causes include an immune response to proteins found in soybeans.
+
+Question: How to prevent Soy Allergy?
+Answer: Prevent by avoiding soy and soy-containing products and reading food labels carefully.
+
+Question: What is the treatment for Soy Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Soy Allergy?
+Answer: Soy Allergy is an allergic reaction to soy proteins, which can cause gastrointestinal and respiratory symptoms.
+
+Question: What are the prescribed medicines for Soy Allergy?
+Answer: Common medications include antihistamines (e.g., loratadine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Corn Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Corn Allergy?
+Answer: Causes include an immune response to proteins found in corn.
+
+Question: How to prevent Corn Allergy?
+Answer: Prevent by avoiding corn and corn-containing products and reading food labels carefully.
+
+Question: What is the treatment for Corn Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Corn Allergy?
+Answer: Corn Allergy is an allergic reaction to corn proteins, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Corn Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Garlic Allergy?
+Answer: Symptoms include skin rashes, gastrointestinal distress, and respiratory issues.
+
+Question: What are the causes of Garlic Allergy?
+Answer: Causes include an immune response to compounds found in garlic.
+
+Question: How to prevent Garlic Allergy?
+Answer: Prevent by avoiding garlic and garlic-containing products.
+
+Question: What is the treatment for Garlic Allergy?
+Answer: Treatment options include antihistamines for mild reactions and avoiding garlic.
+
+Question: What is Garlic Allergy?
+Answer: Garlic Allergy is an allergic reaction to garlic, which can cause various symptoms, including skin and gastrointestinal issues.
+
+Question: What are the prescribed medicines for Garlic Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and corticosteroids for severe reactions.
+
+Question: What are the symptoms of Caffeine Allergy?
+Answer: Symptoms include hives, rapid heartbeat, and gastrointestinal distress.
+
+Question: What are the causes of Caffeine Allergy?
+Answer: Causes include an immune response to caffeine, a stimulant found in coffee, tea, chocolate, and some medications.
+
+Question: How to prevent Caffeine Allergy?
+Answer: Prevent by avoiding caffeine-containing products and reading labels carefully.
+
+Question: What is the treatment for Caffeine Allergy?
+Answer: Treatment options include antihistamines for mild reactions and avoiding caffeine.
+
+Question: What is Caffeine Allergy?
+Answer: Caffeine Allergy is an allergic reaction to caffeine, which can cause various symptoms, including skin and gastrointestinal issues.
+
+Question: What are the prescribed medicines for Caffeine Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and corticosteroids for severe reactions.
+
+Question: What are the symptoms of Chocolate Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Chocolate Allergy?
+Answer: Causes include an immune response to proteins found in chocolate, which may include cocoa and other ingredients.
+
+Question: How to prevent Chocolate Allergy?
+Answer: Prevent by avoiding chocolate and chocolate-containing products and reading food labels carefully.
+
+Question: What is the treatment for Chocolate Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Chocolate Allergy?
+Answer: Chocolate Allergy is an allergic reaction to components in chocolate, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Chocolate Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Beef Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Beef Allergy?
+Answer: Causes include an immune response to proteins found in beef.
+
+Question: How to prevent Beef Allergy?
+Answer: Prevent by avoiding beef and beef-containing products and reading food labels carefully.
+
+Question: What is the treatment for Beef Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Beef Allergy?
+Answer: Beef Allergy is an allergic reaction to proteins in beef, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Beef Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Chicken Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Chicken Allergy?
+Answer: Causes include an immune response to proteins found in chicken.
+
+Question: How to prevent Chicken Allergy?
+Answer: Prevent by avoiding chicken and chicken-containing products and reading food labels carefully.
+
+Question: What is the treatment for Chicken Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Chicken Allergy?
+Answer: Chicken Allergy is an allergic reaction to proteins in chicken, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Chicken Allergy?
+Answer: Common medications include antihistamines (e.g., loratadine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Honey Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Honey Allergy?
+Answer: Causes include an immune response to proteins or pollen found in honey.
+
+Question: How to prevent Honey Allergy?
+Answer: Prevent by avoiding honey and honey-containing products.
+
+Question: What is the treatment for Honey Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Honey Allergy?
+Answer: Honey Allergy is an allergic reaction to components in honey, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Honey Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen) for severe reactions.
+
+Question: What are the symptoms of Banana Allergy?
+Answer: Symptoms include hives, swelling, gastrointestinal distress, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Banana Allergy?
+Answer: Causes include an immune response to proteins found in bananas, which may also cross-react with latex.
+
+Question: How to prevent Banana Allergy?
+Answer: Prevent by avoiding bananas and banana-containing products.
+
+Question: What is the treatment for Banana Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Banana Allergy?
+Answer: Banana Allergy is an allergic reaction to proteins in bananas, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Banana Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Celery Allergy?
+Answer: Symptoms include hives, swelling, gastrointestinal distress, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Celery Allergy?
+Answer: Causes include an immune response to proteins found in celery, which may also cross-react with certain pollen.
+
+Question: How to prevent Celery Allergy?
+Answer: Prevent by avoiding celery and celery-containing products.
+
+Question: What is the treatment for Celery Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Celery Allergy?
+Answer: Celery Allergy is an allergic reaction to proteins in celery, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Celery Allergy?
+Answer: Common medications include antihistamines (e.g., loratadine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Fish Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Fish Allergy?
+Answer: Causes include an immune response to proteins found in fish, such as salmon, tuna, and cod.
+
+Question: How to prevent Fish Allergy?
+Answer: Prevent by avoiding fish and fish-containing products.
+
+Question: What is the treatment for Fish Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Fish Allergy?
+Answer: Fish Allergy is an allergic reaction to proteins in fish, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Fish Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Sesame Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Sesame Allergy?
+Answer: Causes include an immune response to proteins found in sesame seeds and sesame oil.
+
+Question: How to prevent Sesame Allergy?
+Answer: Prevent by avoiding sesame and sesame-containing products.
+
+Question: What is the treatment for Sesame Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Sesame Allergy?
+Answer: Sesame Allergy is an allergic reaction to proteins in sesame seeds, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Sesame Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Mustard Allergy?
+Answer: Symptoms include hives, swelling, abdominal pain, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Mustard Allergy?
+Answer: Causes include an immune response to proteins found in mustard seeds.
+
+Question: How to prevent Mustard Allergy?
+Answer: Prevent by avoiding mustard and mustard-containing products.
+
+Question: What is the treatment for Mustard Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Mustard Allergy?
+Answer: Mustard Allergy is an allergic reaction to proteins in mustard seeds, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Mustard Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Potato Allergy?
+Answer: Symptoms include hives, swelling, gastrointestinal distress, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Potato Allergy?
+Answer: Causes include an immune response to proteins found in potatoes.
+
+Question: How to prevent Potato Allergy?
+Answer: Prevent by avoiding potatoes and potato-containing products.
+
+Question: What is the treatment for Potato Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Potato Allergy?
+Answer: Potato Allergy is an allergic reaction to proteins in potatoes, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Potato Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Tomato Allergy?
+Answer: Symptoms include hives, swelling, gastrointestinal distress, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Tomato Allergy?
+Answer: Causes include an immune response to proteins found in tomatoes.
+
+Question: How to prevent Tomato Allergy?
+Answer: Prevent by avoiding tomatoes and tomato-containing products.
+
+Question: What is the treatment for Tomato Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Tomato Allergy?
+Answer: Tomato Allergy is an allergic reaction to proteins in tomatoes, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Tomato Allergy?
+Answer: Common medications include antihistamines (e.g., diphenhydramine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Cucumber Allergy?
+Answer: Symptoms include hives, swelling, gastrointestinal distress, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Cucumber Allergy?
+Answer: Causes include an immune response to proteins found in cucumbers.
+
+Question: How to prevent Cucumber Allergy?
+Answer: Prevent by avoiding cucumbers and cucumber-containing products.
+
+Question: What is the treatment for Cucumber Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Cucumber Allergy?
+Answer: Cucumber Allergy is an allergic reaction to proteins in cucumbers, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Cucumber Allergy?
+Answer: Common medications include antihistamines (e.g., loratadine) and epinephrine auto-injectors (e.g., EpiPen).
+
+Question: What are the symptoms of Peach Allergy?
+Answer: Symptoms include hives, swelling, gastrointestinal distress, and in severe cases, anaphylaxis.
+
+Question: What are the causes of Peach Allergy?
+Answer: Causes include an immune response to proteins found in peaches.
+
+Question: How to prevent Peach Allergy?
+Answer: Prevent by avoiding peaches and peach-containing products.
+
+Question: What is the treatment for Peach Allergy?
+Answer: Treatment options include antihistamines for mild reactions and epinephrine for severe reactions (anaphylaxis).
+
+Question: What is Peach Allergy?
+Answer: Peach Allergy is an allergic reaction to proteins in peaches, leading to various symptoms, including gastrointestinal and respiratory issues.
+
+Question: What are the prescribed medicines for Peach Allergy?
+Answer: Common medications include antihistamines (e.g., cetirizine) and epinephrine auto-injectors (e.g., EpiPen).
+
+                                                       
 
 
 
