@@ -1,15 +1,19 @@
 Question: Hi!
 Answer: Hello! How can I assist you today?
-
+Question: Who are you?
+Answer: I am your Health Assistant..Enter your health related queries and I will assist you..
+Question:What is your name?
+Answer:Sorry..I dont have a specific name..
+Question:Do you know my name?
+Answer: No,I don't know...
+Question: My name is ABCD!
+Answer: Nice Name!!!Let me know how can I assist you today!
 Question: Hello!
 Answer: Hi there! What can I help you with today?
-
 Question: Good morning!
 Answer: Good morning! I hope you have a wonderful day ahead. How can I assist you?
-
 Question: Good afternoon!
 Answer: Good afternoon! How's your day going? How can I help you?
-
 Question: Good evening!
 Answer: Good evening! I hope you're having a pleasant evening. What can I do for you?
 
